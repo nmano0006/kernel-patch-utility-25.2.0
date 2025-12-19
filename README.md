@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-1. Copy to desktop:
+1. **Copy to desktop:**
 ```bash
 cp kernel-patch-utility-25.2.0.sh ~/Desktop/
 chmod +x ~/Desktop/kernel-patch-utility-25.2.0.sh
